@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+
+# Spyder IDE config
+.spyderproject
+
+# VS Code
+.vscode

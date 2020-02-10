@@ -1,0 +1,5 @@
+PyOpenGL
+PyOpenGL_accelerate
+numpy
+pygame
+opencv-python
