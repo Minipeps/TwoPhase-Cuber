@@ -2,6 +2,7 @@ name: cuber
 dependencies:
   - python=3.4
   - numpy
+  - matplotlib
   - pip:
     - opencv-python
     - PyOpenGL

@@ -1,9 +1,0 @@
-name: cuber
-dependencies:
-  - python=3.4
-  - numpy
-  - pip:
-    - opencv-python
-    - PyOpenGL
-    - PyOpenGL_accelerate
-    - pygame

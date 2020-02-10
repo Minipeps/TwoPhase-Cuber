@@ -1,5 +1,6 @@
 PyOpenGL
 PyOpenGL_accelerate
 numpy
+matplotlib
 pygame
 opencv-python

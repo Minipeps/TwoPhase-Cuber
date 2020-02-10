@@ -6,6 +6,22 @@ Rubik's Cube modelisation in Python using OpenGL for the 3D rendering and animat
 
 Detailed informations about my own implementation are written in french below.
 
+![3D Cube](res/cube.jpg)
+
+## Setup
+
+Runs on Python 3.4 (soon to be updated to 3.8), a config file is provided to create the Anaconda environment using the following command:
+
+``` bash
+conda env create -f cuber-env.yaml
+```
+
+Alternatively, you can install the dependencies using pip:
+
+``` bash
+python -m pip install requirements.txt
+```
+
 ## Conventions pour la modélisation du Rubik's Cube
 
 ### Général
