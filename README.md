@@ -22,6 +22,11 @@ Alternatively, you can install the dependencies using pip:
 python -m pip install requirements.txt
 ```
 
+To run the program, performing a single scramble and solve, simply run:
+``` bash
+python main.py
+```
+
 ## Conventions pour la modélisation du Rubik's Cube
 
 ### Général
