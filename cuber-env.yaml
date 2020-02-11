@@ -1,6 +1,6 @@
 name: cuber
 dependencies:
-  - python=3.4
+  - python=3.7
   - numpy
   - matplotlib
   - pip:

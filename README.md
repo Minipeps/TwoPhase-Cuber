@@ -10,7 +10,7 @@ Detailed informations about my own implementation are written in french below.
 
 ## Setup
 
-Runs on Python 3.4 (soon to be updated to 3.8), a config file is provided to create the Anaconda environment using the following command:
+Runs on Python 3.7, a config file is provided to create the Conda environment using the following command:
 
 ``` bash
 conda env create -f cuber-env.yaml
@@ -23,6 +23,7 @@ python -m pip install requirements.txt
 ```
 
 To run the program, performing a single scramble and solve, simply run:
+
 ``` bash
 python main.py
 ```

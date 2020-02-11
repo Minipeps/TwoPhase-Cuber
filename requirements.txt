@@ -1,6 +1,6 @@
-PyOpenGL
-PyOpenGL_accelerate
+PyOpenGL=3.1
+PyOpenGL_accelerate=3.1
 numpy
 matplotlib
-pygame
-opencv-python
+pygame=1.9
+opencv-python=4.2
